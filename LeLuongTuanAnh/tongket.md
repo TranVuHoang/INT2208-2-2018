@@ -29,3 +29,4 @@
 - Người Chấm : Trần Văn Tuấn.
 - Điểm : 9.5
 - Nhận xét : Hoàn thành tốt các khóa học được yêu cầu,tham gia tích cực làm việc nhóm, có tham gia hoàn thiện báo cáo dự án, tóm tắt khoá học, viết báo cáo phần mềm.
+
